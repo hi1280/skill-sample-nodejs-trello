@@ -1,0 +1,26 @@
+{
+  "languageModel": {
+    "intents": [
+      {
+        "name": "AMAZON.CancelIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.HelpIntent",
+        "samples": []
+      },
+      {
+        "name": "AMAZON.StopIntent",
+        "samples": []
+      },
+      {
+        "name": "GetTrello",
+        "samples": [
+          "タスクを教えて"
+        ],
+        "slots": []
+      }
+    ],
+    "invocationName": "トレロ"
+  }
+}
